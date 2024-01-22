@@ -36,7 +36,7 @@ The task is this: __Determine the difference in player behavior when they’re w
 Be sure to look at the problem carefully, while we are looking at overall patterns amongst players, *how* you break up a 
 player's performance into winning, losing, and maintaining is important. 
 
-If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
+If you have any questions please reach out to shiva.amiri@pivotallifesciences.com.
 
 ### Exercise 2: Financial data
 
@@ -49,7 +49,7 @@ The task is this: __which companies inside the XBI index were hit the hardest by
 This problem is equally graded on a candidate's ability to communicate their thought process as it is their ability
 to pull and extract meaningful data for a problem.
 
-If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
+If you have any questions please reach out to shiva.amiri@pivotallifesciences.com.
 
 ### Exercise 3: Reddit Data 
 
@@ -58,4 +58,4 @@ The file `askscience_data.csv` is a collection of posts from the subreddit r/ask
 2. __Build a model that can predict the score of a post on r/askscience given at least the title and body of the post__ 
 (There is no need to limit it to just the title and body, but you must explain why you chose the features you did).
 
-If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
+If you have any questions please reach out to shiva.amiri@pivotallifesciences.com.
